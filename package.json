@@ -1,0 +1,35 @@
+{
+  "name": "react-native-touch",
+  "version": "0.0.1",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "touchable",
+    "ios","android",
+    "block multi-touch", 
+    "disable multi-touch"
+    
+  ],
+  "description": "React native touch is component for React Native. Base from TouchableOpacity. Helps block the touch repeatedly and continuously for a short time. 
+",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaraht17/react-native-touch.git"
+  },
+   "author": "yaraht17 <daohoangtien.ptit@gmail.com>",
+   "contributors": [{
+   "name": "Richard Dao",
+   "email": "daohoangtien.ptit@gmail.com",
+   "url": "https://github.com/yaraht17",
+   "website": "hoangtien.info"
+   }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaraht17/react-native-touch/issues"
+  },
+  "homepage": "https://github.com/yaraht17/react-native-touch#readme"
+  
+   
+}
