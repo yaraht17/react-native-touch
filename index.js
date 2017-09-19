@@ -21,6 +21,7 @@ export default class Touch extends Component {
     render() {
         return (
             <TouchableOpacity
+                {...this.props}
                 pointerEvents = {this.props.pointerEvents}
                 style={this.props.style}
                 activeOpacity={this.props.activeOpacity}

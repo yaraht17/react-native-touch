@@ -10,8 +10,7 @@
     "disable multi-touch"
     
   ],
-  "description": "React native touch is component for React Native. Base from TouchableOpacity. Helps block the touch repeatedly and continuously for a short time. 
-",
+  "description": "React native touch is component for React Native. Base from TouchableOpacity. Helps block the touch repeatedly and continuously for a short time.",
   "main": "index.js",
 
   "repository": {
